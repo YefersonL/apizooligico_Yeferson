@@ -1,0 +1,19 @@
+MONGODB_URI =
+npm i bcrypt --save
+npm i jsonwebtoken --save
+
+para crear un perro 
+{
+  "nombre": "marciona",
+  "edad": 1,
+  "tipo": "Perro",
+  "fecha": "10/16/2025"
+}
+
+crear usuario 
+{
+    "usuario": "joseph",
+    "correo": "cpapija",
+    "clave": "123"
+}
+
