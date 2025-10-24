@@ -1,4 +1,5 @@
 MONGODB_URI =
+
 npm i bcrypt --save
 npm i jsonwebtoken --save
 
@@ -16,4 +17,7 @@ crear usuario
     "correo": "cpapija",
     "clave": "123"
 }
+
+
+npm i -g @angular/cli
 
